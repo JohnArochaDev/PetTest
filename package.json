@@ -1,5 +1,5 @@
 {
-  "name": "appNameHere",
+  "name": "Pets",
   "version": "1.0.0",
   "description": "Auth boilerplate for mongoose express using token auth",
   "main": "server.js",
